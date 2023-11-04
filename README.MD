@@ -11,8 +11,9 @@
 
 - 📫 How to reach me **Discord - BJNFNE**
 
+- My Buddy: [DerJavaCoder / Samir Ademi](https://github.com/DerJavaCoder)
+
 <h3 align="left">Connect with me:</h3>
-- My Buddy: [DerJavaCoder aka Samir Ademi](https://github.com/DerJavaCoder)
 <p align="left">
 </p>
 
