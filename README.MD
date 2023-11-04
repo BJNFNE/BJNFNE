@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Funke</h1>
 <h3 align="center">Developer / Reverse engineer</h3>
 
-- 🔭 I’m currently working on **Tools for Coktel Vision games (see my GitHub profile))**
+- 🔭 I’m currently working on **Tools for Coktel Vision games (see my GitHub profile)**
 
 - 🌱 I’m currently learning **C++, Java**
 
