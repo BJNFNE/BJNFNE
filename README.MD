@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE)
 
-- 👨‍💻 All of my projects are available at [https://github.com/BJNFNE](https://github.com/BJNFNE)
+- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
 
 - 📫 How to reach me **Discord - BJNFNE**
 
