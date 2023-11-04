@@ -1,7 +1,13 @@
 <h1 align="center">Hi 👋, I'm Benjamin Funke</h1>
-<h3 align="center">Coktel Vision</h3>
+<h3 align="center">Developer</h3>
+
+- 🔭 I’m currently working on **Tools for Coktel Vision games**
 
 - 🌱 I’m currently learning **C++, Java**
+
+- 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE)
+
+- 👨‍💻 All of my projects are available at [https://github.com/BJNFNE](https://github.com/BJNFNE)
 
 - 📫 How to reach me **Discord - BJNFNE**
 
