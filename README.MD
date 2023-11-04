@@ -12,6 +12,7 @@
 - 📫 How to reach me **Discord - BJNFNE**
 
 <h3 align="left">Connect with me:</h3>
+[https://github.com/DerJavaCoder](https://github.com/DerJavaCoder)
 <p align="left">
 </p>
 
