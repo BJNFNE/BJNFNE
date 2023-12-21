@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Tools for Coktel Vision games (see my GitHub profile)**
 
-- 🌱 I’m currently learning **C++, Java**
+- 🌱 I’m currently learning **C++, Python**
 
 - 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE)
 
