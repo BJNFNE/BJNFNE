@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **Discord - BJNFNE**
 
-- My Buddy: [DerCodeDev / Samir Ademi](https://github.com/DerCodeDev)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
