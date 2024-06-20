@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning **C++, Python**
 
+- :hammer: Reverse Engineering with Ghidra and IDA
+
 - 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE)
 
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
