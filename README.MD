@@ -17,6 +17,14 @@
 <p align="left">
 </p>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=horsicq&theme=dark" />
+</a>
+<br/>
+
+<img alt="Stars" src="https://img.shields.io/github/stars/horsicq?label=Stars">
+<img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=horsicq">
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
