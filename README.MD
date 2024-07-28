@@ -12,15 +12,3 @@
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
 
 - 📫 How to reach me **Discord - BJNFNE**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BJNFNE&theme=dark" />
-</a>
-<br/>
-
-<img alt="Stars" src="https://img.shields.io/github/stars/BJNFNE?label=Stars">
-<img alt="Forks" src="https://visitor-badge.laobi.icu/badge?page_id=BJNFNE">
-
