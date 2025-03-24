@@ -7,7 +7,7 @@
 
 - :hammer: Reverse Engineering with Ghidra and IDA
 
-- 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE)
+- 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE), [Boozook](https://github.com/adventurebrew/boozook), and [Detect it Easy](https://github.com/horsicq/Detect-It-Easy).
 
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
 
