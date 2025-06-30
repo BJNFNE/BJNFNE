@@ -11,4 +11,4 @@
 
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
 
-- 📫 How to reach me **Discord/Telegram - BJNFNE**
+- 📫 How to reach me **Discord/Telegram/X - BJNFNE**
