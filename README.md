@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [ScummVM on the GOB engine](https://wiki.scummvm.org/index.php?title=User:BJNFNE), [Boozook](https://github.com/adventurebrew/boozook).
 
-- 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
-
 - 📫 How to reach me **Discord/Telegram/X - BJNFNE**
 
 ## 📊 GitHub Stats
