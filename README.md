@@ -12,3 +12,11 @@
 - 👨‍💻 All of my projects are available at [GitHub Profile](https://github.com/BJNFNE)
 
 - 📫 How to reach me **Discord/Telegram/X - BJNFNE**
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=BJNFNE&show_icons=true&theme=radical&hide_title=true" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BJNFNE&theme=radical" alt="GitHub Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=BJNFNE&show_icons=true&theme=radical&layout=compact" alt="Top Languages" />
