@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **[Detect It Easy](https://github.com/horsicq/Detect-It-Easy)**
 
-- 🌱 I’m currently learning **C++, Python**
+- 🌱 I’m currently learning **C++, Python, Assembler**
 
 - :hammer: Analyzing Software with Ghidra and IDA
 
