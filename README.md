@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Funke</h1>
 <h3 align="center">Developer / Software analyst</h3>
 
-- 🔭 I’m currently working on **[Detect It Easy](https://github.com/horsicq/Detect-It-Easy)**
+- 🔭 I’m currently working on **[Detect It Easy](https://github.com/horsicq/Detect-It-Easy)** / **[SafeNova](https://github.com/DosX-dev/SafeNova)**
 
 - 🌱 I’m currently learning **C++, Python, Assembler**
 
